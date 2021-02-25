@@ -47,9 +47,14 @@ document.addEventListener('DOMContentLoaded',function(){
     
     const options = document.getElementById('breed-dropdown')
     options.addEventListener('change',(e)=>{
-        breedHolder.removeChild
-        breedHolder.appendChild(li.classList === e.target.value)
+        for 
     })
+
+//     if (name.toUpperCase().indexOf(filter) == 0) 
+//     lis[i].style.display = 'list-item';
+// else
+//     lis[i].style.display = 'none';
+
 
     // selectElement.addEventListener('change', (event) => {
     //     const result = document.querySelector('.result');
